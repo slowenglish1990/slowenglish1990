@@ -1,3 +1,6 @@
-# dependencies here
-gTTS
-moviepy
+gTTS==2.3.2
+moviepy==1.0.3
+Pillow==10.3.0
+google-auth==2.29.0
+google-auth-oauthlib==1.2.0
+google-api-python-client==2.127.0
