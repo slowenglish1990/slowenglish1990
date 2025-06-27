@@ -2,7 +2,7 @@ services:
   - type: worker
     name: slowenglish1990
     runtime: python
-    pythonVersion: "3.12"
+    pythonVersion: "3.10"
     repo: https://github.com/slowenglish1990/slowenglish1990
     plan: free
     region: oregon
