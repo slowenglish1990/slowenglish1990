@@ -2,7 +2,7 @@ gTTS==2.3.2
 moviepy==1.0.3
 imageio==2.15.0
 imageio-ffmpeg==0.4.7
-Pillow==9.4.0
+Pillow==10.2.0
 google-auth==2.29.0
 google-auth-oauthlib==1.2.0
 google-api-python-client==2.127.0
